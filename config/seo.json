@@ -1,12 +1,12 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
-  "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce -> https://www.nextjs.org/commerce",
+  "title": "Masters Of Art  |Frames and Canvas From as low as 5k",
+  "titleTemplate": "%s - Masters Of Art  |Frames and Canvas From as low as 5k",
+  "description": "Masters Of Art  |Frames and Canvas From as low as 5k -> https://www.mastersofart.com.ng",
   "openGraph": {
     "type": "website",
     "locale": "en_IE",
-    "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce"
+    "url": "https://www.mastersofart.com.ng",
+    "site_name": "Masters Of Art"
   },
   "twitter": {
     "handle": "@nextjs",
